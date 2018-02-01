@@ -55,7 +55,7 @@ Here's a story:
     `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
 Amazingly, `git` doesn't care whether one repository is the "source" or is
-"another fork of the source." Amazingly, if GitHub were to be wiped off the
+"another fork of the source." If GitHub were to be wiped off the
 earth tomorrow, local copies on hundreds of laptops 'round the world are _just
 as good as the copy that GitHub_ had! This is why `git` is called a
 "Distributed Version Control System." So, to share a pull request with another
